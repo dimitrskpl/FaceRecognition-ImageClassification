@@ -3,6 +3,8 @@
 
 The goal of this project was to apply the Eigenfaces method, combining Principal Component Analysis (PCA) for feature extraction and the nearest neighbor classifier for face recognition. The project utilized the Yale B face database, featuring 10 individuals photographed under 64 different lighting conditions.
 
+**Methodology**
+
 The approach involved three key steps:
 
 1. Data Preparation: Each 50x50 pixel image from the training set was transformed into a 2500-dimensional vector and stored in a matrix. PCA was then applied to extract the principal components, which, when visualized as images, are known as Eigenfaces.
