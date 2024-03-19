@@ -1,7 +1,7 @@
 # Face-Recognition
 **Objective**
 
-The goal of this project was to apply the Eigenfaces method, combining Principal Component Analysis (PCA) for feature extraction and the nearest neighbor classifier for face recognition. The project utilized the Yale B face database, featuring 10 individuals photographed under 64 different lighting conditions.
+The goal of this project was to apply the Eigenfaces method, combining Principal Component Analysis (PCA) for feature extraction and the nearest neighbor classifier for face recognition. The project utilized the Yale B face database, featuring 10 individuals photographed under 64 different lighting conditions, which can be found in the file *faces.zip*.
 
 **Methodology**
 
